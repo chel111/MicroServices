@@ -1,0 +1,12 @@
+[submodule "EurekaServer"]
+	path = EurekaServer
+	url = git@github.com:chel111/EurekaServer.git
+[submodule "EurekaZuul"]
+	path = EurekaZuul
+	url = git@github.com:chel111/EurekaZuul.git
+[submodule "EurekaMain"]
+	path = EurekaMain
+	url = git@github.com:chel111/EurekaMain.git
+[submodule "EurekaAuth"]
+	path = EurekaAuth
+	url = git@github.com:chel111/EurekaAuth.git
